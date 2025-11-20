@@ -285,7 +285,7 @@ Harry Kane attack:87 defence:45 speed:8.5
 
 ---
 
-**d)** Add a line to your `test_class.py` file to demonstrate how this is called.
+**d)** Add a line to your `8b_part2.py` <s>`test_class.py`</s> file to demonstrate how this is called.
 
 ---
 
