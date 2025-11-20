@@ -299,7 +299,7 @@ Add a class method `get_type` that returns a string
 
 ---
 
-**f)** Add a line to your `test_class.py` file to demonstrate how this is called,
+**f)** Add a line to your `8b_part2.py` <s>`test_class.py`</s> file to demonstrate how this is called,
 storing the result as variable `card_type`
 
 
