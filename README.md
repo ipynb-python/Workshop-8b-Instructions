@@ -348,7 +348,7 @@ Run the following lines in the terminal to stage, commit and push your code back
 
 ```
 git add .
-git commit -m "completed 7b"
+git commit -m "completed 8b"
 git push
 ```
 
