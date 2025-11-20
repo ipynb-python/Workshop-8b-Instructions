@@ -309,7 +309,7 @@ storing the result as variable `card_type`
 
 ## Part 3
 
-Work in file `8b_part3.py`
+Work in file `8b_part3.py` (note the template file provided has a typo and should read `# file: 8b_part3.py` but you can ignore or correct this.
 
 Write a function `get_player_info()` that would enable a user to enter data describing a football player in the following order:
 
