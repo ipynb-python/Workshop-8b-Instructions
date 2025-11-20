@@ -173,7 +173,7 @@ correct_ans = "apples"
 user_ans = "APPLES"
 
 
-if user_ans = correct_ans: # fix this line
+if user_ans > correct_ans: # fix this line
 	print("correct")
 else:
 	print("wrong")
